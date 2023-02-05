@@ -124,6 +124,7 @@ main{
     height: 90vh;
     color: white;
     border-bottom: 1px solid rgb(99, 97, 97);
+    overflow-x: hidden;
 }
 
 main .card-producto{
